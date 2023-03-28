@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1679872139 source:c:\jemr\proyectos\capitulo6\6.51\main.cpp
+	<iostream>
+	"maximo.h"
+
+1679872209 c:\jemr\proyectos\capitulo6\6.51\include\maximo.h
+

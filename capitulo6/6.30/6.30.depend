@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1679977052 source:c:\jemr\proyectos\capitulo6\6.30\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+
